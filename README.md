@@ -11,8 +11,7 @@
 ## 🚀 Tech Stack
 HTML | CSS | JavaScript | Node.js | Firebase | Google Maps API
 
-# 🌐 Live Demo
-[Coming Soon]
+
 
 ## 💡 Inspiration
 Every plate counts. Let's nourish the nation.
